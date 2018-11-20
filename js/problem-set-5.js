@@ -26,8 +26,12 @@ function mario() {
   let height; // DO NOT MODIFY
   ////////////// DO NOT MODIFY
 
-  // WRITE YOUR EXERCISE 1 CODE HERE
-
+prompt("Please enter your height.")
+while (height<0) {
+  var i;
+  for (i=1; x<23; x++)
+}
+document.getElementById)("mario-easy-output").innerHTML=(height)
   ////////////////////////// DO NOT MODIFY
   check('mario', height); // DO NOT MODIFY
   ////////////////////////// DO NOT MODIFY
