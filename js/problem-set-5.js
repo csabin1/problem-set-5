@@ -27,9 +27,10 @@ function mario() {
   ////////////// DO NOT MODIFY
 
 prompt("Please enter your height.")
-while (height<0) {
-  var i;
-  for (i=1; x<23; x++)
+var=i
+let i=1
+for (var i = 1; i <= height; i++) {
+   row += ' ';
 }
 document.getElementById)("mario-easy-output").innerHTML=(height)
   ////////////////////////// DO NOT MODIFY
